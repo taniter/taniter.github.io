@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px){
+    .nav_left_bar{
+        /* display: none; */
+    }
+}
+
+.show_nav{
+    position: absolute;
+    width: 250px;
+    z-index: 100;
+}
